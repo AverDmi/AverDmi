@@ -9,9 +9,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="AverDmi" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" style="max-width: 100%; margin-right: 10px" />] [telegram]
-[<img align="left" alt="AverDmi" width="22px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" style="max-width: 100%; margin-right: 10px" />] [mail]
-[<img align="left" alt="AverDmi" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />] [linkedin]
+<a href="https://t.me/dimthomas"> <img align="left" alt="AverDmi" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" style="max-width: 100%; margin-right: 10px"> </a>
+<a href="mailto:dimthomas1@mail.ru"> <img align="left" alt="AverDmi" width="22px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" style="max-width: 100%; margin-right: 10px"> </a>
+<a href="https://www.linkedin.com/in/dmitriy-averyanov-558163234/"> <img align="left" alt="AverDmi" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> </a>
 
 
 <br />
@@ -28,10 +28,4 @@
 <img align="left" alt="RabbitMQ" width="30px" height="30" src="https://www.nastel.com/wp-content/uploads/2022/05/rabbitmq.png" style="max-width: 100%; margin-right: 10px">
 <img align="left" alt="Intellij" width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/120px-IntelliJ_IDEA_Icon.svg.png" style="max-width: 100%; margin-right: 10px">
 
-
-
-
-
-[telegram]: https://t.me/dimthomas
-[mail]: mailto:dimthomas1@mail.ru
 [linkedin]: https://www.linkedin.com/in/dmitriy-averyanov-558163234/

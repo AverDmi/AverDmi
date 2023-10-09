@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dima
 
-## I'm a Java and BackEnd Developer
+## I'm a Android Developer
 
 - 💻 I like to write code
 - ✈ I love to travel and spend time with friends
